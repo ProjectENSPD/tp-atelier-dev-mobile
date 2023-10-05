@@ -1,3 +1,5 @@
+package nanche.tp.fonction
+
 fun main() {
     println("Hello Mr Hyoubissie!")
 //question 1
