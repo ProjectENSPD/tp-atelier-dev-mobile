@@ -1,6 +1,8 @@
 Project: Lemonade App - Starter Code
 ==================================
 
+Réaliser par KEMMEGNE TOUNSI EMERICK ET NANCHE OLGA VANESSA
+
 Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
 Introduction
