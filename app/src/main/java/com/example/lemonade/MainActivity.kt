@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity() {
 
     /**
      * DO NOT ALTER ANY VARIABLE OR VALUE NAMES OR THEIR INITIAL VALUES.
-     *
      * Anything labeled var instead of val is expected to be changed in the functions but DO NOT
      * alter their initial values declared here, this could cause the app to not function properly.
      */
